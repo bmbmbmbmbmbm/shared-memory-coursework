@@ -1,0 +1,6 @@
+
+Matrix 1 is the final matrix.
+
+arr[1][1]=0.999647 	arr2[1][1]=0.999647 	difference=0.000100 	iterations=3601
+
+Result took... 7.617036 seconds
